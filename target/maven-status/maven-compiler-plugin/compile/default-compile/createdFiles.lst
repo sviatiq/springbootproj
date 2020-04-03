@@ -1,0 +1,10 @@
+com/sviatdev/springproj/domain/User.class
+com/sviatdev/springproj/repos/MessageRepo.class
+com/sviatdev/springproj/domain/Role.class
+com/sviatdev/springproj/controller/RegistrationController.class
+com/sviatdev/springproj/domain/Message.class
+com/sviatdev/springproj/controller/MainController.class
+com/sviatdev/springproj/repos/UserRepo.class
+com/sviatdev/springproj/config/WebSecurityConfig.class
+com/sviatdev/springproj/Application.class
+com/sviatdev/springproj/config/MvcConfig.class
